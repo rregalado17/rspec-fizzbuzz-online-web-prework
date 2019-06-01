@@ -1,4 +1,4 @@
-number = int
+number = ()
 
 def fizzbuzz(number)
 
